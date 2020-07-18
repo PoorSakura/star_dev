@@ -10,6 +10,7 @@ def methodemo():
     print(m(c_char("+"), 123, 789))
     print(m(c_char("-"), 123, 789))
     print(m(c_char("*"), 123, 789))
+    print(m(c_char("/"), 123, 789)) 
 
 
 if __name__ == "__main__":
