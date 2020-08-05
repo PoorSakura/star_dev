@@ -19,5 +19,11 @@ int sum_array(int array[], int size) {
     }
     return sum;
 }
+	
+struct Param 
+{
+public:
+    int first, second;
+}
 
 }
